@@ -1,0 +1,58 @@
+﻿
+*{
+    padding: 0;
+    margin : 0;
+    box-sizing:border-box;
+}
+.tieude {
+    padding: 20px;
+    font-size: 24px;
+    color: #fff;
+    background: #009688;
+}
+.form_signin {
+    max-width: 600px;
+    max-height: 500px;
+    margin: 0px auto;
+    border: 1px solid rgb(94, 33, 94);
+    background-color: white;
+    font-size: 18px;
+}
+#btnDangNhap {
+    background: #009688;
+    border: none;
+    color: #fff;
+    max-width: 180px;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 10px;
+    cursor: pointer;
+    margin-left : 20%;
+}
+#btnDangNhap {
+    opacity: 0.8;
+}
+td{
+    padding : 10px;
+    max-width : 300px;
+    font-size:22px;
+}
+span{
+    color : red;
+}
+input {
+    border: 1px solid #c74c4c;
+}
+input:focus{
+    outline: 1px solid red;
+}
+.account {
+    position: relative;
+    max-width: 300px;
+    max-height: 200px;
+    padding: 16px;
+    font-size: 20px;
+    background: #f0f2f5;
+    top : 250px ;
+    left : 20px;
+}
